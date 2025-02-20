@@ -55,6 +55,27 @@
 }
 
 .img-sec-p{
-	height: 500px;
+	height: 400px;
 	margin-bottom: 60px;
+	border-radius: 10px;
+}
+
+.img-fiv{
+	height: 300px;
+}
+
+.vv{
+	position: relative;
+}
+.img-fiv-div{
+	position: absolute;
+	bottom: 100px;
+	left: 200px;
+}
+.div-eiq-img{
+	display: flex;
+	margin-bottom: 20px;
+}
+.img-eig{
+	height: 300px;
 }
